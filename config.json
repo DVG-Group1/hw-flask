@@ -1,0 +1,95 @@
+{
+    "drinks": [{
+        "id": "vt",
+        "displayName": "Vodka Tonic",
+        "recipe": {
+            "vodka": 2,
+            "tonic": 4
+        }
+    }, {
+        "id": "lv",
+        "displayName": "Lots of Vodka",
+        "recipe": {
+            "vodka": 4
+         }
+    }, {
+        "id": "b",
+        "displayName": "Bourbon",
+        "recipe": {
+            "bourbon": 2
+        }
+    }, {
+        "id": "vnc",
+        "displayName": "Vodka and Cranberry", 
+        "recipe": {
+            "vodka": 1, 
+            "cranberry juice": 3
+        }
+    }, {
+        "id": "mh",
+        "displayName": "Manhattan", 
+        "recipe": {
+            "bourbon": 2.5, 
+            "sweet vermouth": 0.75
+        }
+    }, {
+        "id": "gnt",
+        "displayName": "Gin and Tonic", 
+        "recipe": {
+            "gin": 3, 
+            "tonic": 4
+        }
+    }, {
+        "id": "007",
+        "displayName": "Vesper", 
+        "recipe": {
+            "gin": 2, 
+            "vodka": 0.5,
+            "lillet blonde": 0.25
+        }
+    }, {
+        "id": "ng",
+        "displayName": "Negroni", 
+        "recipe": {
+            "gin": 1, 
+            "campari": 1,
+            "sweet vermouth": 1
+        }
+    }, {
+        "id": "bv",
+        "displayName": "Boulevardier", 
+        "recipe": {
+            "bourbon": 1, 
+            "campari": 1,
+            "sweet vermouth": 1
+        }
+    }],
+        
+    "ingredients": [{
+        "id": "vodka",
+        "pin": 18
+    }, {
+        "id": "tonic",
+        "pin": 27
+    }, {
+        "id": "bourbon",
+        "pin": 22
+    }, {
+        "id": "cranberry juice",
+        "pin": 23
+    }, {
+        "id": "sweet vermouth",
+        "pin": 16
+    }, {
+        "id": "gin",
+        "pin": 32
+    }, {
+        "id": "lillet blonde",
+        "pin": 36
+    }, {
+        "id": "campari",
+        "pin": 15
+    }],
+    "millisPerOunce": 1000,
+    "buttonPin": 17
+}
